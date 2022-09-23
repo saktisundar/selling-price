@@ -19,3 +19,4 @@ Werkzeug==1.0.1
 wincertstore==0.2
 gunicorn
 flask_socketio
+pip==21.3.1
